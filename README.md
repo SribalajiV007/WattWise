@@ -43,4 +43,4 @@ Smart Energy Tracker - Learning Project
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SriBalajiV/WattWise.git
+   git clone https://github.com/SribalajiV007/WattWise.git
